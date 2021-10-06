@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Arduino Bluetooth</string>
+    <string name="strconten">IMAGEN</string>
+    <string name="strdesc">DESCONECTAR</string>
+    <string name="strescriba">Escriba un Texto</string>
+    <string name="strresp">Respuesta</string>
+    <string name="strins">Instrucciones</string>
+</resources>
